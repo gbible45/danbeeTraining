@@ -8,3 +8,9 @@
 - 작업 기록을 `WorkerList.md`에 기록.
 - SpaceX, OpenAI, Anthropic 관련 국내/미국 주식 및 ETF 후보를 Excel workbook으로 정리.
 - `spacex-openai-anthropic-investment-candidates.xlsx` 생성 및 압축/XML 구조 검증 완료.
+
+## 2026-05-11
+
+- 사용자의 반도체 메모리·스토리지 필수재 문의를 확인.
+- `Request.md`와 `WorkerList.md`에 질의 및 작업 기록을 추가.
+- DRAM, NAND, SSD 생산에 필요한 소재·부품·장비 관점으로 답변 정리.
