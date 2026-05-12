@@ -16,3 +16,9 @@
 - DRAM, NAND, SSD 생산에 필요한 소재·부품·장비 관점으로 답변 정리.
 - 반도체 메모리·스토리지 필수 소재 및 장비 관련 한국/미국 상장사 목록을 정리.
 - 매일 투자 테마 분석 및 브리핑을 AI 에이전트로 보고받기 위한 운영 방식과 prompt template을 문서화.
+
+## 2026-05-12
+
+- 미국 소형주 후보 분석 요청을 확인.
+- AI infrastructure, space/satellite, nuclear/energy, defense autonomy, data center infrastructure 관련 최신 자료를 확인.
+- 후보군을 안정형, 성장형, 고위험형으로 구분해 답변 정리.
