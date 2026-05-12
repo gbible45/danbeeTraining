@@ -22,3 +22,4 @@
 - 미국 소형주 후보 분석 요청을 확인.
 - AI infrastructure, space/satellite, nuclear/energy, defense autonomy, data center infrastructure 관련 최신 자료를 확인.
 - 후보군을 안정형, 성장형, 고위험형으로 구분해 답변 정리.
+- 사용자의 소형주 정의가 낮은 1주당 가격임을 확인하고, $5 미만, $5~10, $10~20 구간으로 재분류해 답변 정리.
