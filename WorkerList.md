@@ -23,3 +23,9 @@
 - AI infrastructure, space/satellite, nuclear/energy, defense autonomy, data center infrastructure 관련 최신 자료를 확인.
 - 후보군을 안정형, 성장형, 고위험형으로 구분해 답변 정리.
 - 사용자의 소형주 정의가 낮은 1주당 가격임을 확인하고, $5 미만, $5~10, $10~20 구간으로 재분류해 답변 정리.
+
+## 2026-05-14
+
+- Alpha Compute Corp. 문의를 확인.
+- 공식 IR, SEC 6-K, GlobeNewswire 보도자료를 확인.
+- 회사 개요, GPUaaS/Confidential Compute 사업, NVIDIA B200/B300 클러스터, $32.2M 계약, 초저가주 리스크를 정리.
