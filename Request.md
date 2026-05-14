@@ -21,3 +21,4 @@
 - Alpha Compute Corp. 관련 회사 개요, 사업 모델, 최근 계약, 투자 포인트 및 리스크를 정리.
 - Robo.ai Inc. 관련 회사 개요, 사업 모델, 최근 인수/주식병합, 투자 포인트 및 리스크를 정리.
 - Snail, Inc. (SNAL) 관련 회사 개요, Q1 2026 실적, 게임 파이프라인, 투자 포인트 및 리스크를 정리.
+- Nokia Corporation (NYSE: NOK) 관련 Q1 2026 실적, AI/Cloud 및 Optical Networks 성장, valuation과 리스크를 정리.

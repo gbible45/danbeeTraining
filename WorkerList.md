@@ -35,3 +35,6 @@
 - Snail, Inc. (SNAL) 문의를 확인.
 - Q1 2026 실적 발표, earnings call transcript, 주가/상장 유지 관련 뉴스를 확인.
 - ARK franchise 의존도, Q1 흑자전환, 현금흐름 개선, AAA 게임 파이프라인, Nasdaq compliance와 재무 리스크를 정리.
+- Nokia Corporation (NYSE: NOK) 문의를 확인.
+- 공식 Q1 2026 interim report와 시장 분석 자료를 확인.
+- Optical Networks, AI & Cloud 매출 성장, Network Infrastructure 가이던스 상향, 배당, valuation 부담과 Mobile Infrastructure 리스크를 정리.
