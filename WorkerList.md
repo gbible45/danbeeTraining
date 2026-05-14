@@ -29,3 +29,6 @@
 - Alpha Compute Corp. 문의를 확인.
 - 공식 IR, SEC 6-K, GlobeNewswire 보도자료를 확인.
 - 회사 개요, GPUaaS/Confidential Compute 사업, NVIDIA B200/B300 클러스터, $32.2M 계약, 초저가주 리스크를 정리.
+- Robo.ai Inc. 문의를 확인.
+- Yahoo Finance, CNBC, SEC, PRNewswire 자료를 확인.
+- AIIO 티커, NWTN에서 사명 변경, AI 로보틱스/스마트 모빌리티 사업, 1:20 reverse split, Neurovia $100M 주식 인수, 재무 및 희석 리스크를 정리.
