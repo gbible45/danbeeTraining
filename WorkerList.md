@@ -32,3 +32,6 @@
 - Robo.ai Inc. 문의를 확인.
 - Yahoo Finance, CNBC, SEC, PRNewswire 자료를 확인.
 - AIIO 티커, NWTN에서 사명 변경, AI 로보틱스/스마트 모빌리티 사업, 1:20 reverse split, Neurovia $100M 주식 인수, 재무 및 희석 리스크를 정리.
+- Snail, Inc. (SNAL) 문의를 확인.
+- Q1 2026 실적 발표, earnings call transcript, 주가/상장 유지 관련 뉴스를 확인.
+- ARK franchise 의존도, Q1 흑자전환, 현금흐름 개선, AAA 게임 파이프라인, Nasdaq compliance와 재무 리스크를 정리.
