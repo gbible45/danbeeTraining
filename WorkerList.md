@@ -1,0 +1,46 @@
+# Worker Log
+
+## 2026-05-10
+
+- 사용자의 Excel 생성 요청을 확인.
+- 작업 브랜치 `cursor/investment-excel-1593` 생성.
+- 요청 사항을 `Request.md`에 기록.
+- 작업 기록을 `WorkerList.md`에 기록.
+- SpaceX, OpenAI, Anthropic 관련 국내/미국 주식 및 ETF 후보를 Excel workbook으로 정리.
+- `spacex-openai-anthropic-investment-candidates.xlsx` 생성 및 압축/XML 구조 검증 완료.
+
+## 2026-05-11
+
+- 사용자의 반도체 메모리·스토리지 필수재 문의를 확인.
+- `Request.md`와 `WorkerList.md`에 질의 및 작업 기록을 추가.
+- DRAM, NAND, SSD 생산에 필요한 소재·부품·장비 관점으로 답변 정리.
+- 반도체 메모리·스토리지 필수 소재 및 장비 관련 한국/미국 상장사 목록을 정리.
+- 매일 투자 테마 분석 및 브리핑을 AI 에이전트로 보고받기 위한 운영 방식과 prompt template을 문서화.
+
+## 2026-05-12
+
+- 미국 소형주 후보 분석 요청을 확인.
+- AI infrastructure, space/satellite, nuclear/energy, defense autonomy, data center infrastructure 관련 최신 자료를 확인.
+- 후보군을 안정형, 성장형, 고위험형으로 구분해 답변 정리.
+- 사용자의 소형주 정의가 낮은 1주당 가격임을 확인하고, $5 미만, $5~10, $10~20 구간으로 재분류해 답변 정리.
+
+## 2026-05-14
+
+- Alpha Compute Corp. 문의를 확인.
+- 공식 IR, SEC 6-K, GlobeNewswire 보도자료를 확인.
+- 회사 개요, GPUaaS/Confidential Compute 사업, NVIDIA B200/B300 클러스터, $32.2M 계약, 초저가주 리스크를 정리.
+- Robo.ai Inc. 문의를 확인.
+- Yahoo Finance, CNBC, SEC, PRNewswire 자료를 확인.
+- AIIO 티커, NWTN에서 사명 변경, AI 로보틱스/스마트 모빌리티 사업, 1:20 reverse split, Neurovia $100M 주식 인수, 재무 및 희석 리스크를 정리.
+- Snail, Inc. (SNAL) 문의를 확인.
+- Q1 2026 실적 발표, earnings call transcript, 주가/상장 유지 관련 뉴스를 확인.
+- ARK franchise 의존도, Q1 흑자전환, 현금흐름 개선, AAA 게임 파이프라인, Nasdaq compliance와 재무 리스크를 정리.
+- Nokia Corporation (NYSE: NOK) 문의를 확인.
+- 공식 Q1 2026 interim report와 시장 분석 자료를 확인.
+- Optical Networks, AI & Cloud 매출 성장, Network Infrastructure 가이던스 상향, 배당, valuation 부담과 Mobile Infrastructure 리스크를 정리.
+
+## 2026-05-15
+
+- 국내 증시 급락 원인 문의를 확인.
+- 2026년 5월 15일 코스피/코스닥 급락, 매도 사이드카, 외국인 순매도, 환율, 지정학 리스크, AI 반도체 차익실현 관련 최신 시장 자료를 확인.
+- 외국인 리밸런싱, 환율 1,500원대 위협, AI 반도체 집중도, 정책/지정학 불확실성, 단기 과열 해소 관점으로 답변 정리.
