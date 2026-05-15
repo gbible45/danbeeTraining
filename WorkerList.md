@@ -38,3 +38,9 @@
 - Nokia Corporation (NYSE: NOK) 문의를 확인.
 - 공식 Q1 2026 interim report와 시장 분석 자료를 확인.
 - Optical Networks, AI & Cloud 매출 성장, Network Infrastructure 가이던스 상향, 배당, valuation 부담과 Mobile Infrastructure 리스크를 정리.
+
+## 2026-05-15
+
+- 국내 증시 급락 원인 문의를 확인.
+- 2026년 5월 15일 코스피/코스닥 급락, 매도 사이드카, 외국인 순매도, 환율, 지정학 리스크, AI 반도체 차익실현 관련 최신 시장 자료를 확인.
+- 외국인 리밸런싱, 환율 1,500원대 위협, AI 반도체 집중도, 정책/지정학 불확실성, 단기 과열 해소 관점으로 답변 정리.
